@@ -1,0 +1,47 @@
+[
+    {
+        "load_id":434057843,
+        "origin_city":"Muncy",
+        "origin_state":"PA",
+        "origin_latitude":41.205628,
+        "origin_longitude":-76.785519,
+        "destination_city":"Baltimore",
+        "destination_state":"MD",
+        "destination_latitude":39.297668,
+        "destination_longitude":-76.6176,
+        "amount":981,
+        "pickup_date_time":"2022-03-02T19:00:00.000Z"
+    },
+
+    {"load_id":434133070,"origin_city":"PHILADELPHIA","origin_state":"PA","origin_latitude":39.953603,"origin_longitude":-75.168424,"destination_city":"LOCK HAVEN","destination_state":"PA","destination_latitude":41.137015,"destination_longitude":-77.44692,"amount":1140,"pickup_date_time":"2022-03-03T09:00:00.000Z"}
+    ,
+    {   
+        "load_id":434076692,
+        "origin_city":"GRIFTON",
+        "origin_state":"NC",
+        "origin_latitude":35.3726615906,
+        "origin_longitude":-77.4374694824,
+        "destination_city":"MILLERSBURG",
+        "destination_state":"PA",
+        "destination_latitude":40.5395278931,
+        "destination_longitude":-76.9608154297,
+        "amount":1688,
+        "pickup_date_time":"2022-03-04T12:00:00.000Z"
+    },
+    {
+        "load_id":434077674,
+        "origin_latitude":40.5359039307,
+        "origin_longitude":-77.8169403076,
+        "origin_city":"ALLENSVILLE",
+        "origin_state":"PA",
+        "destination_city":"PLYMOUTH",
+        "destination_state":"NC",
+        "destination_latitude":35.861656189,
+        "destination_longitude":-76.747253418,
+        "amount":1663,  
+        "pickup_date_time":"2022-03-04T08:00:00.000Z"
+    }
+        
+]
+
+
